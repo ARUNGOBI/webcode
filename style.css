@@ -1,0 +1,35 @@
+#root{
+    display: grid;
+    grid-template-columns: auto  auto auto ;
+    padding: 1vh;
+    margin: 3vh;
+    margin-left: 1vh;
+    
+}
+.container{
+    margin-left: 2vh;
+    margin-top: 3vh;
+    text-align: center;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    height: 40vh;
+    width: 50vh;
+    
+   
+}
+.card span{
+    font-weight: bolder;
+    color: rgb(255, 1, 1);
+}
+.card{
+ 
+     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    color: rgb(105, 105, 106);
+    padding: 1vh;
+    margin-top: 1vh;
+}
+
+.idx{
+    
+    background: radial-gradient(circle, rgb(240, 226, 226) 22%, rgb(177, 52, 96) 77%);
+    border:  5px solid rgb(98, 117, 27)
+}
